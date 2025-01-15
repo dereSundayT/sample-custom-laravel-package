@@ -1,0 +1,19 @@
+{
+    "name": "toluwani/blog-toolkits",
+    "description": "description goes her",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Toluwani\\BlogToolkits\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sunday Toluwani Dere",
+            "email": "62195195+dereSundayT@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
